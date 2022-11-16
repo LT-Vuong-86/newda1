@@ -1,0 +1,24 @@
+#dau{
+    background-color: aqua;
+    height: 200px;width: 100%;
+}
+#than{
+    background-color: blue;
+    height: 500px;
+    width: 100%;
+}
+#giua{
+    background-color: aliceblue;
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+#cuoi{
+    background-color: rgb(124, 166, 96);
+    height: 100%;
+    width: 50%;float: left;
+}
+#le{background-color: aqua;
+    height: 180px;width: 100%;
+
+}

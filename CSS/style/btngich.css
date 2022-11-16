@@ -1,0 +1,177 @@
+#header{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(11, 11, 242);
+}
+.a{
+    width: 40%;
+    height: 100%;
+    float: left; 
+}
+span{
+    color: white;
+    padding-left: 25px;
+    position: relative;  
+}
+p{
+    text-align: center;
+    color: white;
+}
+
+.c{
+    text-align: center;
+    color: white;
+
+} 
+
+.e{
+    position: relative;
+    color: white;
+    padding-left: 25px;
+    text-decoration: none;
+}
+.e:hover{
+    color: black;
+    font-weight: bold;
+}
+.b{
+    width: 60%;
+    height: 100%;
+ float: left;
+}
+#border{
+    margin-top: -18px;
+    width: 100%;
+    height: 300px;
+}
+#boder1{
+    width: 100%;
+    height: 55px;
+    background-color: blue;
+}
+#baner{
+    
+    width: 100%;
+    height: 100%;
+}
+.anh1{
+   position: absolute;
+   padding-left: -5px;
+}
+nav >ul>li>a{
+    float: left;
+    text-align: center;
+    color: white;
+    padding: 18px ;
+    text-decoration: none;
+    font-weight:bold;
+    border-right: 1px solid white;
+}
+#menu{
+    margin-top: -25px; 
+    width: 100%;
+    height: 1000px;
+}
+h1{
+text-align: center;
+    font-size: 30px;
+}
+
+
+.root >li> a:hover{
+    color: rgb(19, 244, 87);
+    display: block;
+    background: black;
+}
+.root li{
+    list-style: none;
+    float: left;
+}
+.submenu{
+    display: none;
+    background: rgb(7, 14, 16);
+    position: absolute;
+    margin-top: 54px;
+    height: 70px;
+    padding-right: 5px;
+    padding-top: 5px;
+}
+.submenu li {
+    display: block; 
+    position: relative;
+}
+.root >li:hover .submenu{
+    display: block;
+}
+.submenu li a{
+    text-decoration: none;
+    
+    border-bottom: 1px solid rgb(199, 101, 101);
+}
+.submenu li a:hover{
+    color: aqua;
+}
+#font {
+    width: 100%;
+    height: 500px;
+    margin-top: -900px;
+}
+section div{
+   margin-left: 10px;
+    
+    width: 24%;
+    height: 500px;
+    margin-bottom: 30px;
+    float: left;
+    box-shadow: 2px 2px 2px 2px rgb(121, 121, 117);
+     border: 1px solid black;}
+    
+.aa{
+    width: 100%;
+    height: 350px;
+}
+div ul li{
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+.aa1{
+    background: orange;
+    width: 50%;
+}
+.aa1:hover{
+    font-weight: bold;
+    color: rgb(27, 40, 221);
+    background: rgb(116, 181, 116);
+}
+div ul li a{
+    text-decoration: none;
+} 
+#trang{width: 100%;
+    height: 1800px;
+}
+#footer1{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 940px;
+    height:200px;
+background-color: rgb(23, 184, 176);
+}
+#footer1 li a{
+    text-decoration: none;
+}
+#footer2{
+   margin-left: -25px;
+    padding-top: 15px;
+    margin-top: -20px;
+    height: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    overflow: hidden;
+    color: rgb(49, 232, 16);
+    background-color: rgb(8, 9, 7);
+}
+#footer2 li{
+ 
+   border: 2px solid blue;
+}
